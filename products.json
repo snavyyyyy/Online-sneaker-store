@@ -1,0 +1,53 @@
+[
+  {
+    "ID": "5ae9ae5c-5ef7-4e43-af61-b59f0919dbad",
+    "name": "Nike Air Force 1",
+    "price": 299.99,
+    "isOnDiscount": false,
+    "discountedPrice": null,
+    "type": "Woman's shoes",
+    "description": "Let classic, easy-to-wear AF-1 style rise to the occasion with the Nike Air Force 1 PLT.AF.ORM. Its elegantly shaped and lifted midsole delivers a proud, new voice to the hoops franchise. The leather on the upper breaks in easily and ages to soft perfection while the sculpted collar and pillowy heel keep it comfy. Captivate your audience.",
+    "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+    "images": [
+      "./images/products/5ae9ae5c-5ef7-4e43-af61-b59f0919dbad/1.png",
+      "./images/products/5ae9ae5c-5ef7-4e43-af61-b59f0919dbad/2.png",
+      "./images/products/5ae9ae5c-5ef7-4e43-af61-b59f0919dbad/3.png",
+      "./images/products/5ae9ae5c-5ef7-4e43-af61-b59f0919dbad/4.png",
+      "./images/products/5ae9ae5c-5ef7-4e43-af61-b59f0919dbad/5.png"
+    ]
+  },
+  {
+    "ID": "1063e2e1-2bc9-4da3-aa24-96126ff60d38",
+    "name": "Nike Dunk Low",
+    "price": 149.99,
+    "isOnDiscount": true,
+    "discountedPrice": 129.99,
+    "type": "Man's shoes",
+    "description": "New colours and fresh textures give you an updated AJ1 without losing its iconic silhouette and familiar feel. Made from premium materials, this all-time favourite comes decked out with comfortable Nike Air cushioning and subtle design details (check out that embroidered heel) to give you a staple sneaker with a modern look.",
+    "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+    "images": [
+      "./images/products/1063e2e1-2bc9-4da3-aa24-96126ff60d38/1.jpeg",
+      "./images/products/1063e2e1-2bc9-4da3-aa24-96126ff60d38/2.jpeg",
+      "./images/products/1063e2e1-2bc9-4da3-aa24-96126ff60d38/3.jpeg",
+      "./images/products/1063e2e1-2bc9-4da3-aa24-96126ff60d38/4.png",
+      "./images/products/1063e2e1-2bc9-4da3-aa24-96126ff60d38/5.jpeg"
+    ]
+  },
+  {
+    "ID": "e97b8ad4-af97-4716-88ae-d87a652a5c17",
+    "name": "Nike Air Jordan 1 High",
+    "price": 189.99,
+    "isOnDiscount": true,
+    "discountedPrice": 159.99,
+    "type": "Man's shoes",
+    "description": "The Air Jordan 1 Mid brings full-court style and premium comfort to an iconic look. Its Air-Sole unit cushions play on the hardwood, while the padded collar gives you a supportive feel.",
+    "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+    "images": [
+      "./images/products/e97b8ad4-af97-4716-88ae-d87a652a5c17/1.jpeg",
+      "./images/products/e97b8ad4-af97-4716-88ae-d87a652a5c17/2.jpeg",
+      "./images/products/e97b8ad4-af97-4716-88ae-d87a652a5c17/3.jpeg",
+      "./images/products/e97b8ad4-af97-4716-88ae-d87a652a5c17/4.png",
+      "./images/products/e97b8ad4-af97-4716-88ae-d87a652a5c17/5.jpeg"
+    ]
+  }
+]
