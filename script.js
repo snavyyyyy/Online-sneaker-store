@@ -1,4 +1,4 @@
-var happyHourDate = new Date("May 25, 2024 00:00:00").getTime();
+var happyHourDate = new Date("May 25, 2025 00:00:00").getTime();
 let data;
 let selectedSize = null;
 let items=[];
